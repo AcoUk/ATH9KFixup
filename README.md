@@ -1,8 +1,7 @@
 # ATH9KFixup
-An open source kernel extension providing patches for unsupported Atheros cards.
-
+Build Requires Lilu and MacKernelSDK
 #
-
+An open source kernel extension providing patches for unsupported Atheros cards.
 #
 
     AR946X (AR9462 & AR9463)
@@ -23,4 +22,4 @@ Credits
     vit9696 for Lilu.kext & for patch
     Pike R. Alpha for patch
     lvs1974 for original source code and idea
-    [chunnann](https://github.com/chunnann/ATH9KFixup) for writing the software and maintaining it
+    chunnann for writing the software and maintaining it
